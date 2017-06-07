@@ -1,0 +1,14 @@
+{
+  "name": "music-fetcher",
+  "version": "1.0.0",
+  "description": "A React app to display music information",
+  "main": "server.js",
+  "repository": "https://github.com/JaredEdwards/music-fetcher.git",
+  "author": "jared edwards <jredwards519@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-router-dom": "^4.1.1"
+  }
+}
